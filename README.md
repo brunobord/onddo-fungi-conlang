@@ -62,31 +62,31 @@ Apparently, fungi can have a conversation with several other individuals at the 
 
 ## Example dialog
 
-— Fungus A: GREETINGS GREETING GREETINGS GREETINGS
-— Fungus B: GREETINGS
-— A: WET&WARM QUESTION
-— B: WET&WARM WATER LOW-QUANTITY[^no-pause]
-— A: ROOT GROWING LOW-QUANTITY
-— B: ROOT STOP.[^dot] WORMS DANGER QUESTION
-— A: GREETINGS[^greetings-repetition] WORMS NOT
-— B: PENUMBRA DARKNESS GROWING
-— A: DARKNESS LOW-QUANTITY RAIN QUESTION
-— B: RAIN NOT. DANGER
-— A: SPORES
+— Fungus A: GREETINGS GREETING GREETINGS GREETINGS  
+— Fungus B: GREETINGS  
+— A: WET&WARM QUESTION  
+— B: WET&WARM WATER LOW-QUANTITY[^no-pause]  
+— A: ROOT GROWING LOW-QUANTITY  
+— B: ROOT STOP.[^dot] WORMS DANGER QUESTION  
+— A: GREETINGS[^greetings-repetition] WORMS NOT  
+— B: PENUMBRA DARKNESS GROWING  
+— A: DARKNESS LOW-QUANTITY RAIN QUESTION  
+— B: RAIN NOT. DANGER  
+— A: SPORES  
 
 That could be translated into English like this:
 
-— Fungus A: Greetings, anyone here?
-— Fungus B: I'm here
-— A: Are you fine?
-— B: I'm fine, but not enough water for me
-— A: My roots are growing slowly
-— B: My roots have stopped (growing?). Are there worms eating you?
-— A: Greetings, there are no worms.
-— B: Shadows and darkness are growing.
-— A: It's becoming a bit dark, do you think it'll rain?
-— B: No rain, I fear.
-— A: I'm going to release my spores.
+— Fungus A: Greetings, anyone here?  
+— Fungus B: I'm here  
+— A: Are you fine?  
+— B: I'm fine, but not enough water for me  
+— A: My roots are growing slowly  
+— B: My roots have stopped (growing?). Are there worms eating you?  
+— A: Greetings, there are no worms.  
+— B: Shadows and darkness are growing.  
+— A: It's becoming a bit dark, do you think it'll rain?  
+— B: No rain, I fear.  
+— A: I'm going to release my spores.  
 
 
 [^article]: https://royalsocietypublishing.org/doi/10.1098/rsos.211926#
